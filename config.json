@@ -1,0 +1,7 @@
+{
+    "token": "8762462971:AAES1yGo_EHD20KoyzCGKseHKtxX1UKif9Q",
+    "admins": [@poda_dubukku],
+    "logfile": null,
+    "workers": 4,
+    "database_url": "sqlite:///uno.db"
+}
